@@ -16,3 +16,6 @@
  * {
   box-sizing: border-box;
 }
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
